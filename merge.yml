@@ -1,0 +1,14 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - conda
+  - python=3.9
+  - jupyter
+  - graphviz
+  - gmp
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - plotly
+prefix: /Users/anupamchaudhauri/opt/miniconda3
